@@ -237,7 +237,7 @@ This gives a local environment for running the queries independently of the orig
 ## Repository Structure
 
 ```text
-1_EDA/
+sql/
 ├── 01_top_demanded_skills.sql
 ├── 02_top_paying_skills.sql
 ├── 03_optimal_skills.sql
