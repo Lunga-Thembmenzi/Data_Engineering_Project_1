@@ -161,7 +161,7 @@ The optimal score is defined by this project's SQL query. It is useful for compa
 
 ## Database Schema
 
-![Data Warehouse Schema](../../Resources/images/1_2_Data_Warehouse.png)
+![Data Warehouse Schema](Images/1_2_Data_Warehouse.png)
 
 The schema consists of one fact table, two dimension tables, and one bridge table.
 
